@@ -1,6 +1,5 @@
 # AHTX0-BMPX80
 Arduino Nano「Weather station 」
-
 This is a AHTX0 and BMPX80 arduino nano case.
 
 Some basic code will be provided here.
