@@ -28,11 +28,20 @@ Install Arduino software
 ##  DataBase Input　（資料導入）
 Downloads GitHub data or create a new arduino project.
 
+Move in the necessary Arduino library provide extra functionality. 
+The function library part can be download from the GitHub “Library” folder.
+You can also open the IDE and click to the "Sketch" menu and then Include Library > Manage Libraries.
+
+After importing the function library.
+Select the project you want to make and input project.
+
 
 ###  中文
-下載本網 GitHub 資料或自行創建新arduino專安
+下載本網 GitHub 資料或自行創建新Arduino專安
 
-選擇你想要製作的專案
+導入必要的程式函數庫至Arduino，函數庫部分可選擇 GitHub “Library” 資料夾中下載，並安裝置指定位子又或自行至Arduino 「草稿碼 → 匯入程式庫 → 管理程式庫...」 下載 
+
+函數庫導入完成後，選擇你想要製作的專案直接開啟即可
 
 ``` r
 ```
