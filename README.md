@@ -15,7 +15,7 @@ OLED_PC_temp_x_bmp_B folder will provide AHT20 + BMP280 code
 
 OLED_PC_temp_B 文件夾將提供 AHT10 + BMP180 code
 
-OLED_PC_temp_x_bmp_B 文件夾將提供 AHT20 + BMP280 代碼
+OLED_PC_temp_x_bmp_B 文件夾將提供 AHT20 + BMP280 code
 
 ##  Installation　（安裝）
 Install Arduino software
@@ -25,9 +25,14 @@ Install Arduino software
 安裝 Arduino 軟體
 - Arduino 軟體下載：https://www.arduino.cc/en/software
 
-##  DataBa　（資料導入）
+##  DataBase Input　（資料導入）
+Downloads GitHub data or create a new arduino project.
 
 
+###  中文
+下載本網 GitHub 資料或自行創建新arduino專安
+
+選擇你想要製作的專案
 
 ``` r
 ```
