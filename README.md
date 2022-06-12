@@ -89,5 +89,5 @@ Please change I2C_ADDRESS to the BMP280 i2c you purchased.
 
 範例如下   (假設購買 BMP280 I2C 0x77)
 ``` r
-static const uint8_t I2C_ADDRESS = (0x77); //
+static const uint8_t I2C_ADDRESS = (0x77); //Modify it to the BMP I2C you use.
 ```
