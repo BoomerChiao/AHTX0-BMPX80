@@ -49,6 +49,15 @@ Select the project you want to make and input project.
 
 函數庫導入完成後，選擇你想要製作的專案直接開啟即可
 
+##  Pin wiring　（引腳接線）
+![image](https://user-images.githubusercontent.com/107128781/173239319-5f8f7608-ce52-4afc-938c-b90ff46c292e.png)
+![image](https://user-images.githubusercontent.com/107128781/173239332-78ee12ab-97d4-40e3-be57-297eebdf19a9.png)
+If you’re using a different Arduino board, make sure you check the correct I2C pins:
+
+- Uno R3、Nano: SDA (A4) ; SCL (A5)
+- MEGA: SDA (20) ; SCL (21)
+- Leonardo: SDA (20) ; SCL (21)
+
 
 ##  Illustration 圖文
 
