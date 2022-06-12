@@ -19,6 +19,8 @@ OLED_PC_temp_B 文件夾將提供 AHT10 + BMP180 code
 
 OLED_PC_temp_x_bmp_B 文件夾將提供 AHT20 + BMP280 code
 
+3D 模型下載：https://www.thingiverse.com/thing:5405217
+
 ##  Installation　（安裝）
 Install Arduino software
 - Arduino software downloads：https://www.arduino.cc/en/software
