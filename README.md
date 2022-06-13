@@ -109,9 +109,9 @@ If you’re using a different Arduino board, make sure you check the correct I2C
 ![image](https://user-images.githubusercontent.com/107128781/173234937-02e03a92-4957-4d4f-b0da-26d57c44eab1.png)
 
 ⬆⬆⬆本文採用Library I2C BMP280 ，若出現 BMP280 無法順利顯示時，請先確認購買的 BMP280 I2C 通訊
-####  PS.可使用查詢 Arduino I2C掃描程式來偵測I2C裝置的位置
+####  PS.可使用查詢 Arduino I2C掃描程式來偵測I2C裝置的位置 https://github.com/BoomerChiao/I2c_scanner
 This article uses the library I2C BMP280. If the BMP280 cannot display smoothly, please confirm the I2C communication of the BMP280 you purchased.
-####  PS.The location of the I2C device can be detected using the Arduino I2C Scanner program.
+####  PS.The location of the I2C device can be detected using the Arduino I2C Scanner program. https://github.com/BoomerChiao/I2c_scanner
 
 ░
 
